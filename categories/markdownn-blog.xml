@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pythonic Finance (Posts about markdown\n- blog)</title><link>https://moccazio.github.io/</link><description></description><atom:link href="https://moccazio.github.io/categories/markdownn-blog.xml" rel="self" type="application/rss+xml"></atom:link><language>en</language><copyright>Contents © 2025 &lt;a href="mailto:n.tesla@example.com"&gt;Maximilian Wimmer&lt;/a&gt; </copyright><lastBuildDate>Mon, 07 Jul 2025 16:21:37 GMT</lastBuildDate><generator>Nikola (getnikola.com)</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>My First Markdown Blog Post</title><link>https://moccazio.github.io/posts/2025/07/07/my-first-markdown-blog-post.html</link><dc:creator>Maximilian Wimmer</dc:creator><description>&lt;p&gt;This is a simple blog post written in Markdown.
+You can use &lt;strong&gt;bold&lt;/strong&gt;, &lt;em&gt;italics&lt;/em&gt;, and &lt;a href="https://www.nikola.blog/"&gt;links&lt;/a&gt; here.&lt;/p&gt;
+&lt;h3&gt;Code Example&lt;/h3&gt;
+&lt;div class="code"&gt;&lt;pre class="code literal-block"&gt;&lt;span class="k"&gt;def&lt;/span&gt;&lt;span class="w"&gt; &lt;/span&gt;&lt;span class="nf"&gt;hello_world&lt;/span&gt;&lt;span class="p"&gt;():&lt;/span&gt;
+    &lt;span class="nb"&gt;print&lt;/span&gt;&lt;span class="p"&gt;(&lt;/span&gt;&lt;span class="s2"&gt;"Hello, Nikola!"&lt;/span&gt;&lt;span class="p"&gt;)&lt;/span&gt;
+
+&lt;span class="n"&gt;hello_world&lt;/span&gt;&lt;span class="p"&gt;()&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h4&gt;Lists&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Item 1&lt;/li&gt;
+&lt;li&gt;Item 2&lt;ul&gt;
+&lt;li&gt;Sub-item A&lt;/li&gt;
+&lt;li&gt;Sub-item B&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>markdown\n- blog</category><guid>https://moccazio.github.io/posts/2025/07/07/my-first-markdown-blog-post.html</guid><pubDate>Mon, 07 Jul 2025 16:20:42 GMT</pubDate></item></channel></rss>
